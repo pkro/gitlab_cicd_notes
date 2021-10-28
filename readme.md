@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Notes on gitlab-ci-pipelines-ci-cd-and-devops-for-beginners on udemy](#notes-on-gitlab-ci-pipelines-ci-cd-and-devops-for-beginners-on-udemy)
+  - [Intro](#intro)
+    - [Your first pipeline](#your-first-pipeline)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Notes on gitlab-ci-pipelines-ci-cd-and-devops-for-beginners on udemy
 
 ## Intro
